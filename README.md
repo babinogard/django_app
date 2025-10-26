@@ -1,3 +1,5 @@
 # My project
 
-This is test of synchronization
+This is test of synchronization.
+
+
